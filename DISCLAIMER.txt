@@ -1,0 +1,20 @@
+Crypto News Monitor v1.1 - Disclaimer
+====================================================
+
+Please read this disclaimer carefully before using Crypto News Monitor.
+
+Crypto News Monitor is an independent informational software tool. It is provided for general market awareness, education, and personal research only. It does not provide financial, investment, trading, legal, tax, accounting, regulatory, or professional advice. Nothing shown in the app is a recommendation to buy, sell, hold, trade, short, leverage, stake, lend, borrow, or otherwise transact in any asset.
+
+Cryptocurrency, digital assets, equities, commodities, foreign exchange, and derivatives are volatile and risky. Prices can move quickly and losses can occur. You are solely responsible for your own decisions, research, risk management, account security, taxes, legal compliance, and financial outcomes. Do not rely on this app as the only basis for any trading or investment decision.
+
+Market data, prices, charts, countdowns, news headlines, article links, social links, market-bias labels, summaries, and other information may be delayed, incomplete, inaccurate, misclassified, unavailable, or affected by third-party outages, rate limits, API changes, network errors, exchange errors, source changes, or software bugs. Always verify important information directly with official exchanges, publishers, regulators, market-data providers, and other primary sources before acting.
+
+The app may display, link to, or reference third-party websites, public posts, indexes, symbols, trademarks, names, platforms, market data, news sources, and other third-party materials. All such materials remain the property of their respective owners. Crypto News Monitor is not affiliated with, endorsed by, sponsored by, approved by, or officially connected with any exchange, broker, publisher, social platform, public figure, market-data provider, asset issuer, regulator, financial institution, or trademark owner unless explicitly stated in writing.
+
+Crypto News Monitor does not execute trades, provide brokerage services, custody funds, manage assets, guarantee market results, or guarantee the accuracy or availability of any third-party service. The developer does not control third-party websites, APIs, data feeds, social platforms, market-data providers, news publishers, or payment providers.
+
+Users must comply with all applicable local, national, and international laws, regulations, platform rules, API terms, exchange terms, intellectual-property rights, tax obligations, and financial-market rules in their own jurisdiction. If you are unsure whether your use, distribution, modification, or donation-supported release of this software is permitted, consult a qualified legal or financial professional before using or publishing it.
+
+To reduce legal and operational risk, do not represent this app as an official product of any exchange, news outlet, social platform, public figure, index provider, asset issuer, or financial institution. Do not use the app to mislead users, impersonate third parties, bypass access controls, scrape private data, violate API terms, redistribute copyrighted content unlawfully, or provide regulated financial services without proper authorization.
+
+By installing or using Crypto News Monitor, you acknowledge and agree that you use it at your own risk. To the maximum extent permitted by law, the developer is not responsible for trading losses, investment losses, lost profits, missed opportunities, data errors, incorrect classifications, software issues, service interruptions, third-party content, API availability, legal consequences, tax consequences, or decisions made based on information displayed by the app.
